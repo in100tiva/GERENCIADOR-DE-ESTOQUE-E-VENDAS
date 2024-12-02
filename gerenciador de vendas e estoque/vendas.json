@@ -1,0 +1,9 @@
+[
+    {
+        "produto": "Chinelo",
+        "preço": 20.0,
+        "quantidade": 50,
+        "total": 1000.0,
+        "estoque": 50
+    }
+]
